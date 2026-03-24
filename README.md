@@ -26,7 +26,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Files:
  CodeBook.md a code book that describes the variables ,the data and any changes or work that i
  performed to clean the data
- week3_course_project_run.r file performs thedata preparation and then followed by the 5 steps
+ run_analysis.r file performs thedata preparation and then followed by the 5 steps
  required as described in the course projects definition:
     1.Merges the trainning and test sets to create one dataset
     2.Extracts only the measurements on the mean and standard deviation for each measurement.
